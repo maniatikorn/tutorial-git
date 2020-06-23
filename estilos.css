@@ -4,4 +4,6 @@ body {
     border: 1px solid red;
     display: grid;
     grid-template-columns: 1fr 1fr;
+    padding: 1em;
+    font-size: 16px;
 }
