@@ -1,7 +1,7 @@
 body {
-    background-color: aqua;
+    background-color: lightcoral;
     color: black;
-    border: 5px solid yellowgreen;
-    display: flex;
-    flex-direction: column;
+    border: 1px solid red;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
