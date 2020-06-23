@@ -3,5 +3,5 @@ body {
     color: black;
     border: 5px solid yellowgreen;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
