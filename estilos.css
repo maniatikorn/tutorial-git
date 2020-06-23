@@ -2,4 +2,6 @@ body {
     background-color: aqua;
     color: black;
     border: 5px solid yellowgreen;
+    display: flex;
+    flex-direction: row;
 }
